@@ -1,5 +1,4 @@
 # OledImageLibrary
-# OledImageLibrary
 # En el codigo main agregar>> 
 # #include "imagenes.h"
 
